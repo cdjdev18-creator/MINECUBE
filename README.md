@@ -1,6 +1,6 @@
-#  [Nombre de tu Proyecto / Motor] — v1.3
+#  [MINECUBE / LWJGL] — v1.3
 
-> Un motor/juego retro en Java inspirado en las mecánicas y estética clásica de Minecraft.
+> Un juego en Java inspirado en las mecánicas y estética clásica de Minecraft.
 
 ![Version](https://img.shields.io/badge/version-1.3-brightgreen.svg)
 ![Language](https://img.shields.io/badge/language-Java-orange.svg)
