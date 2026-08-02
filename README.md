@@ -38,18 +38,3 @@ En esta **versión 1.3**, se han integrado avances clave en el renderizado de ma
 > **Versión Portable: V1.3**  
 >  [Haz clic aquí para descargar MineCube-Portable.zip desde Google Drive es Seguro](https://drive.google.com/file/d/1-WFPfwN2KCKh9N-1PcH-Ne2-6-EESluK/view?usp=drive_link)
 
-
-##  Estructura del Proyecto
-
-```text
-src/
-├── assets/
-│   └── textures/
-│       ├── blocks/       # Sprites individuales (tile000.png, etc.)
-│       ├── entity/       # Textura del cerdo y otras entidades (64x64)
-│       └── terrain.png   # Atlas completo histórico 256x256
-├── models/
-│   └── CustomModel.java  # Renderizador de entidades exportado desde Blockbench
-└── engine/
-    └── Main.java         # Bucle principal del juego
-
